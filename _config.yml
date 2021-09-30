@@ -3,7 +3,7 @@ name: Gridster
 description: the material experience for jekyll
 destination: jekyllbuild
 url: https://test2 #place url
-baseurl: https://test2 #place folder name if site is served in subfolder
+baseurl: /test2 #place folder name if site is served in subfolder
 root: test2
 timezone: Asia/Shanghai
 permalink: /:title/
